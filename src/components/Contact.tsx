@@ -69,8 +69,8 @@ export default function Contact() {
     },
     {
       title: "LinkedIn Profile",
-      value: "linkedin.com/in/mohan-gupta",
-      link: "https://linkedin.com/in/mohan-gupta",
+      value: "linkedin.com/in/mohan-gupta-2120b1204",
+      link: "https://www.linkedin.com/in/mohan-gupta-2120b1204/",
       icon: <Icons.LinkedIn size={20} />
     },
     {

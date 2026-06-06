@@ -148,7 +148,7 @@ export default function Footer() {
             <a href="https://github.com/Mohangupta495" target="_blank" rel="noopener noreferrer" className="social-link" aria-label="GitHub Profile">
               <Icons.GitHub size={18} />
             </a>
-            <a href="https://linkedin.com/in/mohan-gupta" target="_blank" rel="noopener noreferrer" className="social-link" aria-label="LinkedIn Profile">
+            <a href="https://www.linkedin.com/in/mohan-gupta-2120b1204/" target="_blank" rel="noopener noreferrer" className="social-link" aria-label="LinkedIn Profile">
               <Icons.LinkedIn size={18} />
             </a>
             <a href="mailto:mohangupta.react@gmail.com" className="social-link" aria-label="Send Email">

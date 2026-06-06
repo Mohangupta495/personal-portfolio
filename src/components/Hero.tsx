@@ -25,7 +25,7 @@ export default function Hero() {
     // Generate simple dynamic text file as resume mock for demo purposes
     const content = `MOHAN GUPTA - SDE Frontend & React Native Developer
 Email: mohangupta.react@gmail.com
-LinkedIn: linkedin.com/in/mohan-gupta
+LinkedIn: linkedin.com/in/mohan-gupta-2120b1204
 GitHub: github.com/Mohangupta495
 
 SUMMARY
