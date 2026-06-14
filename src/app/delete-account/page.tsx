@@ -74,21 +74,16 @@ export default function DeleteAccount() {
   ] as const;
 
   const appOptions = [
-    "Bolo Social App",
-    "Agrim Retailer App",
-    "Agrim SuperStar Portal",
-    "Agrim Seller Portal",
-    "DoorVi Intercom",
-    "Doorman by DoorVi",
-    "Vani Meetings"
+    "Og Lifter",
+    "Reps HQ"
   ];
 
   if (!mounted) {
     return (
-      <div 
-        className="app-container" 
-        data-theme="light" 
-        data-accent="blue" 
+      <div
+        className="app-container"
+        data-theme="light"
+        data-accent="blue"
         style={{ minHeight: "100vh", display: "flex", alignItems: "center", justifyContent: "center", background: "#f8fafc" }}
       >
         <div style={{ color: "#0f172a", fontFamily: "monospace", fontSize: "0.9rem" }}>Loading workspace environment...</div>
@@ -487,7 +482,7 @@ export default function DeleteAccount() {
       {/* Main Form container */}
       <main className="container">
         <section className="content-section">
-          
+
           <div className="header-area">
             <h1 className="title">
               Account <span>Deletion</span>
@@ -499,7 +494,7 @@ export default function DeleteAccount() {
 
           <div className="card-wrapper">
             <div className="glass-card">
-              
+
               {!submitted ? (
                 <form onSubmit={handleSubmit}>
                   <div className="warning-notice">
