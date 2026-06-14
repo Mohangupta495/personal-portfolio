@@ -19,7 +19,7 @@ export const viewport: Viewport = {
 
 export const metadata: Metadata = {
   title: "Mohan Gupta | React Native & Frontend Developer",
-  description: "Portfolio of Mohan Gupta, SDE-1 Frontend Engineer. Specializing in high-performance React Native mobile apps, offline-first SQLite architectures, and real-time WebRTC/WebSocket communication systems.",
+  description: "Portfolio of Mohan Gupta, SDE-2 Frontend Engineer. Specializing in high-performance React Native mobile apps, offline-first SQLite architectures, and real-time WebRTC/WebSocket communication systems.",
   keywords: [
     "Mohan Gupta", 
     "React Native Specialist", 

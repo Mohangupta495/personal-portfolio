@@ -38,7 +38,7 @@ SKILLS
 - Tools: Git, ESLint, Prettier, Jest, TestFlight, Google Play Console
 
 EXPERIENCE
-- Agrim Wholesale Pvt. Ltd. (SDE-1 - Frontend Engineer), Apr 2025 - Present
+- Agrim Wholesale Pvt. Ltd. (SDE-2 - Frontend Engineer), Apr 2025 - Present
 - Codeplay Labs (React Native Developer), Jan 2023 - Mar 2025
 - Ridobiko Solutions (Junior Frontend Developer), Jul 2021 - Dec 2022
 `;
@@ -261,7 +261,7 @@ EXPERIENCE
             {/* Left Content Column */}
             <div>
               <ScrollReveal>
-                <div className="hero-tag">SDE-1 Frontend / React Native Specialist</div>
+                <div className="hero-tag">SDE-2 Frontend / React Native Specialist</div>
               </ScrollReveal>
               
               <ScrollReveal delayClass="reveal-delay-100">

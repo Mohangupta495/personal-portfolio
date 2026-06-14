@@ -18,7 +18,7 @@ export default function Experience() {
 
   const jobsData: JobHighlight[] = [
     {
-      role: "SDE-1 – Frontend Engineer",
+      role: "SDE-2 – Frontend Engineer",
       company: "Agrim Wholesale Pvt. Ltd.",
       location: "Gurugram, India",
       duration: "Apr 2025 – Present",
